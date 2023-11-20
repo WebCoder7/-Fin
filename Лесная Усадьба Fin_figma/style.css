@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+
+.logo {
+    width: 330px;
+    height: 65px;
+}
+
+
+.list {
+    display: flex;
+    justify-content: end;
+    gap: 60px;
+    margin-top: 20px;
+
+}
+
+.list_iteam {
+    color: #1E1E1E;
+    font-family: Mont;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+.coll {
+    color: rgba(30, 30, 30, 0.62);
+    font-family: Mont;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 0.08px;
+}
+
+.number {
+    color: #1E1E1E;
+    font-family: Mont;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: -20px;
+}
+
+
+.mix {
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+
+.btn1 {
+    padding: 20px 40px;
+    border-radius: 40px;
+    background: linear-gradient(91deg, rgba(61, 184, 70, 0.00) 2.44%, #3DB846 56.96%, rgba(61, 184, 70, 0.00) 99.45%), #447C2A;
+    box-shadow: 0px 12px 12px 0px rgba(42, 124, 48, 0.34);
+    color: #FFF;
+    font-family: Mont;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.8px;
+    border: none;
+}
+
+
+.visit {
+    padding-top: 200px;
+    padding-bottom: 30px;
+    color: #FFF;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: 1.02px;
+}
+
+
+.went {
+    margin-bottom: 40px;
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+.maeko {
+    margin-left: 60px;
+}
+
+
+.zief {
+    color: #FFF;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: 1.02px;
+}
+
+
+.valret {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+
+.monn {
+    color: #FFF;
+    font-family: Mont;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 129.4%;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+
+.biz {
+    margin-bottom: 52px;
+    color: #323638;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+
+.google {
+    color: #323638;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.lorem {
+    color: #747474;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 129.4%;
+}
+
+
+.grand {
+    width: 100%;
+}
+
+
+.theree-text {
+    margin-left: 50px;
+}
+
+
+.all {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #323638;
+    text-align: center;
+    font-family: Mont;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+.alll {
+    color: #323638;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.image_logo {
+    margin-bottom: 20px;
+    width: 257px;
+    height: 267px;
+}
+
+
+
+.position-iage {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+
+.holl {
+    color: #323638;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+/* .soi{
+    
+} */
+
+
+.jtr {
+    color: #747474;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 40px;
+}
+
+
+.mask {
+    margin-left: 60px;
+    margin-top: -60px;
+}
+
+
+.matn {
+    color: #323638;
+    font-family: Mont;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 50px;
+}
+
+
+.sarovha {
+    color: #323638;
+    font-family: Mont;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.btn2 {
+    padding: 22px 45px;
+    border-radius: 50px;
+    background: linear-gradient(91deg, rgba(61, 184, 70, 0.00) 2.44%, #3DB846 56.96%, rgba(61, 184, 70, 0.00) 99.45%), #437D2B;
+    color: #FFF;
+    font-family: Mont;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border: none;
+    margin-top: 20px;
+}
+
+
+.gool {
+    display: flex;
+    justify-content: end;
+}
+
+.logoactive {
+    width: 100%;
+    margin-bottom: 30px;
+
+}
+
+.xona {
+    color: #5E4520;
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 90px;
+}
+
+
+.vidimg {
+    width: 100%;
+    margin-bottom: 100px;
+    
+}
+
+
+.oila2 {
+    color: #323638;
+    text-align: center;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 90px;
+}
+
+
+.famaliy1{
+    color: #323638;
+    text-align: center;
+    font-family: Mont;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+}
